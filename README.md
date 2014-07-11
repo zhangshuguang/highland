@@ -1,1 +1,1 @@
-This is a classical game battleship from codeacademy course, enjoy!
+This is a classical game battleship in Python, enjoy!
